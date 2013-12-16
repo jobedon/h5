@@ -11,4 +11,14 @@ After that, just drag and drop the index.html file in the Prepros software.
 Clic on the picto "Open Live preview" (the globe) and add your SCSS in css/main.scss.
 Each time you'll save, Prepros will compile all files and reload the page. :)
 
+Here some lecture:
+
+http://sass-lang.com/documentation/file.SASS_REFERENCE.html
+
+http://bourbon.io/docs/
+
+http://neat.bourbon.io/docs/
+
+http://bitters.bourbon.io/example.html
+
 Enjoy
